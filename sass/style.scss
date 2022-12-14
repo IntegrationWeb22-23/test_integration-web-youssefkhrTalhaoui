@@ -74,3 +74,10 @@ p{
 	font-size: 1.13rem;
 	font-family: "Lato Regular";
 }
+.box{
+	@extend  .heading-1;
+	color: white;
+	top:10%;
+	width: 100%;
+
+}
